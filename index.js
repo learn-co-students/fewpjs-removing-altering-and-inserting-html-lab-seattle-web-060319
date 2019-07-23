@@ -7,6 +7,5 @@ newHeader.setAttribute("id", "victory");
 newHeader.innerHTML = "Soundarya is the champion";
 document.body.appendChild(newHeader);
 
-
 // var newHeader = document.getElementById("h1#victory");
 // newHeader.innerHTML = "Soundarya is the champion";
